@@ -1,16 +1,28 @@
 {
     "records": [
         {
-            "fullName": "John Smith",
-            "id": "jsmith1",
-            "major": "Information Systems",
-            "startYear": 2015
+            "fullName": "shshs",
+            "id": "73f83c",
+            "major": "dddd",
+            "startYear": 3333
         },
         {
-            "fullName": "Greg Brown",
-            "id": "42",
-            "major": "Computer Science",
-            "startYear": 2012
+            "fullName": "shshs",
+            "id": "2b8c5a",
+            "major": "dddd",
+            "startYear": 3332
+        },
+        {
+            "fullName": "shshs",
+            "id": "67ed94",
+            "major": "dddd",
+            "startYear": 2001
+        },
+        {
+            "fullName": "shshs",
+            "id": "807990",
+            "major": "dddd",
+            "startYear": 2001
         }
     ]
 }
